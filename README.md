@@ -1,5 +1,17 @@
 # DEEP-LEARNING-PROJECT
 
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: GHODKE VAIBHAVSHRI VISHWANATH
+
+INTERN ID: CT12IBE
+
+DOMAIN: DATA SCIENCE
+
+DURATION: 8 WEEEKS
+
+MENTOR: NEELA SANTOSH
+
 This code is a complete implementation of a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify handwritten digits from the MNIST dataset. Below is a step-by-step description of the code:
 
 Step 1: Import Necessary Libraries
@@ -42,3 +54,5 @@ The second plot shows the training and validation loss over the epochs, which he
 Step 7: Predict on Test Set
 The model makes predictions on the test dataset.
 A grid of 12 images from the test set is displayed, showing both the true labels and the predicted labels for each image.
+
+OUTPUT:
