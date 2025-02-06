@@ -56,3 +56,4 @@ The model makes predictions on the test dataset.
 A grid of 12 images from the test set is displayed, showing both the true labels and the predicted labels for each image.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/9df45f3d-27f4-4b50-a645-664c456c2b25)
